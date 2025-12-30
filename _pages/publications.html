@@ -5,32 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+---
+title: "Closing the Loop Inside Neural Networks: Causality-Guided Layer Adaptation for Fault Recovery Control"
+collection: publications
+permalink: /publication/closing-the-loop-inside-nns
+excerpt: ""
+date: 2025-01-01
+venue: "IEEE Control Systems Letters"
+paperurl: ""
+citation: "M. Taheri, S. J. Chung, and F. Y. Hadaegh, “Closing the Loop Inside Neural Networks: Causality-Guided Layer Adaptation for Fault Recovery Control,” IEEE Control Systems Letters, to appear."
+category: manuscripts
+---
 
 
 
