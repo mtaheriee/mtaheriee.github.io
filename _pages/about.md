@@ -13,8 +13,8 @@ My work integrates **nonlinear control theory**, **online learning** with guaran
 
 
 
-Latest News
-------
-The main 
+/Latest News
+/------
+/The main 
 
 
