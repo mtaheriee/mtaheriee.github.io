@@ -1,5 +1,5 @@
 ---
-title: "Learning-Enabled Fault-Recovery Control with Causality-Guided Adaptation"
+title: "Closing the Loop Inside Neural Networks: Causality-Guided Layer Adaptation for Fault Recovery Control"
 excerpt: >
   A causality-guided neural control framework for actuator fault recovery, combining offline causal inference with selective online adaptation under Lyapunov stability guarantees.
   <br/><br/>
