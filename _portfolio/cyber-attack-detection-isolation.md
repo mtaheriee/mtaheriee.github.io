@@ -3,7 +3,7 @@ title: "Cyber-Attack Detection and Isolation in Cyber-Physical Systems"
 excerpt: >
   Investigation of stealthy deception cyber-attacks in cyber-physical systems, including zero-dynamics, controllable, and covert attacks, and the development of dynamic coding–based defenses with provable detectability guarantees.
   <br/><br/>
-  <img src="/assets/images/research/cyber_attack_cps.jpg" style="width:100%; max-width:600px;">
+  <img src="/assets/images/research/cyber_attack_cps.png" style="width:100%; max-width:600px;">
 collection: portfolio
 ---
 
