@@ -3,7 +3,7 @@ title: "Counterfactual Reasoning for Perception Fault Diagnosis in Autonomous Sy
 excerpt: >
   A causal framework for diagnosing perception faults using structural causal models, counterfactual queries, and active experimentation via Monte Carlo Tree Search.
   <br/><br/>
-  <img src="/assets/images/research/counterfactual_perception.jpg" style="width:100%; max-width:600px;">
+  <img src="/assets/images/research/counterfactual_perception.png" style="width:100%; max-width:600px;">
 collection: portfolio
 ---
 
