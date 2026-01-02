@@ -1,5 +1,5 @@
 ---
-title: "Cyber-Attack Detection and Isolation in Cyber-Physical Systems"
+title: "Cyber-Attack Detection and Fault Detection and Isolation in Cyber-Physical Systems"
 excerpt: >
   Investigation of stealthy deception cyber-attacks in cyber-physical systems, including zero-dynamics, controllable, and covert attacks, and the development of dynamic coding–based defenses with provable detectability guarantees.
   <br/><br/>
@@ -19,5 +19,5 @@ During my Ph.D. studies, I investigated **stealthy deception cyber-attacks** in 
   - covert attacks  
 
 ### Impact
-The proposed defenses guarantee attack detectability **without requiring attack models**, and have been validated on aerospace and networked control systems.  
+The proposed defenses guarantee attack detectability **without requiring attack models**, and have been validated on aerospace and networked control systems using a hardware-in-the-loop (HIL) platform.  
 These contributions are published in leading control journals and conferences.
