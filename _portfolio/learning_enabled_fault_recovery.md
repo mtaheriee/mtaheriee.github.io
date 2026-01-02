@@ -13,9 +13,9 @@ As a Postdoctoral Scholar at Caltech, I developed **adaptive neural controllers*
 ### Key Idea
 We introduced a **two-phase learning architecture**:
 1. **Offline phase:**  
-   Causal inference is used to identify the most **causally relevant layers** of a deep neural compensator.
+   Causal inference is used to identify the most **causally relevant layers** of a deep neural network-based fault compensator.
 2. **Online phase:**  
-   Only the selected layers are updated using a **Lyapunov-based gradient law**, guaranteeing bounded tracking error.
+   Only the selected layer is updated using a **Lyapunov-based gradient law** to guarantee bounded tracking error.
 
 ### Key Contributions
 - First neural control framework with **causality-guided internal adaptation**
