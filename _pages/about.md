@@ -10,12 +10,14 @@ I am a Postdoctoral Scholar at the Graduate Aerospace Laboratories of the Califo
 
 My work integrates **nonlinear control theory**, **online learning** with formal guarantees, and **causal inference** to enable provably safe autonomy for autonomous systems. I am particularly interested in developing principled frameworks that bridge classical control theory and machine learning to enable reliable cyberattack and fault detection, identification, and recovery (FDIR) with formal guarantees of stability and performance. My research is validated through high-fidelity simulation and experimental testbeds in aerospace and robotics.
 
-<figure style="margin-top:1em; margin-bottom:0.8em;">
+<figure style="margin-top:1.2em; margin-bottom:1em;">
   <img src="/assets/images/about/research_vision.png"
-       alt="Research vision diagram"
-       style="width:70%; max-width:350px; display:block; margin:auto;">
+       alt="Research vision for learning-enabled resilient autonomy"
+       style="width:80%; max-width:420px; display:block; margin:auto;">
+  <figcaption style="text-align:center; font-size:0.9em;">
+    Research vision for learning-enabled resilient autonomy.
+  </figcaption>
 </figure>
-
 
 
 
