@@ -1,5 +1,5 @@
 ---
-title: "Cyberattack Detection and Fault Detection and Isolation in Cyber-Physical Systems"
+title: "Cyberattack and Fault Detection and Isolation in Cyber-Physical Systems"
 excerpt: >
   Investigation of stealthy deception cyberattacks in cyber-physical systems, including zero-dynamics, controllable, and covert attacks, and the development of dynamic coding–based defenses with provable detectability guarantees.
   <br/><br/>
