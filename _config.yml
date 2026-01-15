@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Home"
-title_separator          : "-"
+title                    : "Caltech"
+title_separator          : "|"
 name                     : &name "Mahdi Taheri"
 description              : &description "Postdoctoral Scholar in Aerospace @ Caltech"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://mtaheriee.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
