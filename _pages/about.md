@@ -22,7 +22,7 @@ My work integrates **nonlinear control theory**, **online learning** with formal
 
 
 ## Latest Work
-A central challenge in resilient autonomy arises when control decisions depend on **perception-based state estimates**. In such settings, estimation errors, perception system errors, and sensor faults propagate directly into the feedback loop, fundamentally coupling perception, estimation, and control. This motivates the need for control architectures that remain stable and reliable under perception uncertainty and sensor faults.
+A central challenge in resilient autonomy arises when control decisions depend on **perception-based state estimates**. In such settings, estimation errors, perception system errors, and sensor faults propagate directly into the feedback loop, fundamentally coupling perception, estimation, and control. This motivates the need for control architectures that remain stable and reliable under perception uncertainty and sensor faults. We have developed a counterfactual reasoning framework to detect faults and algorithmic errors in perception systems and to identify their root causes.
 
 
 <figure style="margin-top:1.5em;">
